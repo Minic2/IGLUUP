@@ -1,0 +1,49 @@
+/* CSS Document */
+body {
+    font:12px arial;
+    /* background-color: rgb(35, 216, 19); */
+    background-color:rgb(35, 42, 48);
+    text-align:center;
+    background-image: https://haciendofotos.com/wp-content/uploads/las-mejores-fotos-de-paisajes-2020.jpg;
+    padding:80px;
+ 
+  
+form, p, span {
+    margin:0;
+    padding:0; }
+  
+input { font:12px arial; }
+
+#menu{
+    width: auto;
+    background-color:  #fc72164d;
+ 
+    border-radius: 5px;
+}
+#menu_list{
+    position: relative;
+    background-color:;
+    width: 50%;
+    margin-left:50%;
+    margin-top:5%;
+}
+li {
+
+    display: inline;
+    padding-left:10px;
+    padding-right:10px;
+    background-color: #ff6600 ;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:25px;
+    border-radius: 5px;
+    right: 100px;
+}
+  
+a {
+    color:#0000FF;
+    text-decoration:none; }
+  
+    a:hover { text-decoration:underline; }
+  
+
